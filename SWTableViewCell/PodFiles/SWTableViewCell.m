@@ -7,7 +7,6 @@
 //
 
 #import "SWTableViewCell.h"
-#import "SWUtilityButtonView.h"
 
 static NSString * const kTableViewCellContentView = @"UITableViewCellContentView";
 
