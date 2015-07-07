@@ -25,7 +25,6 @@ static NSString * const kTableViewCellContentView = @"UITableViewCellContentView
 @property (nonatomic, assign) CGFloat additionalRightPadding;
 
 @property (nonatomic, strong) UIScrollView *cellScrollView;
-@property (nonatomic, strong) SWUtilityButtonView *leftUtilityButtonsView, *rightUtilityButtonsView;
 @property (nonatomic, strong) UIView *leftUtilityClipView, *rightUtilityClipView;
 @property (nonatomic, strong) NSLayoutConstraint *leftUtilityClipConstraint, *rightUtilityClipConstraint;
 
